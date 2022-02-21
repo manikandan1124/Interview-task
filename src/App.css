@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+  height: fit-content;
+
+  
+  
+  
+}
+table, th, td {
+  border:1px solid black;
+}
+.Main{
+  
+  margin: 3% 10% 5% 18%;
+  border: solid 1px;
+  height: fit-content;
+  width: 60%;
+  
+}
+.first{
+  display: flex;
+  justify-content: space-evenly;
+}
+.mainf{
+  display: revert;
+  margin-top: 5%;
+}
+#f1{
+  position: absolute;
+  margin-left: -22%;
+  color: red;
+  margin-top: 2%;
+}
+#f2{
+  position: absolute;
+  margin-right: -35%;
+  color: red;
+  margin-top: 2%;
+}
+#f3{
+  position: absolute;
+    margin-left: -17%;
+    color: red;
+    margin-top: 2%;
+}
+#f4{
+  position: absolute;
+    margin-right: -35%;
+    color: red;
+    margin-top: 2%;
+}
+#f5{
+  position: absolute;
+  margin-left: -22%;
+  color: red;
+  margin-top: 2%;
+}
+
+#f6{
+  position: absolute;
+  margin-right: -38%;
+  color: red;
+  margin-top: 2%;
+}
+#f7{
+  margin-top: 1%;
+  color: red;
+}
+#f8{
+  position: absolute;
+  margin-left: -27%;
+  color: red;
+  margin-top: 2%;
+}
+#f9{
+  position: absolute;
+  margin-right: -30%;
+  color: red;
+  margin-top: 2%;
+}
+ 
